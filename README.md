@@ -10,7 +10,7 @@ While preparing for my CompTIA Security+ certification, I built a home lab to mo
 
 ### Red Team Engagement
 - Simulated an adversary attack using an assumed breached model.  
-- Executed a reverse shell, built a custom Python C2 tool for persistence, and performed data exfiltration of sensitive data after compromising vulnerable endpoints.  
+- Executed a reverse shell, built a[ custom Python C2 tool for persistence]([url](https://github.com/mamadub03/SLC2)), and performed data exfiltration of sensitive data after compromising vulnerable endpoints.  
 - Findings were mapped to **MITRE ATT&CK** and **OWASP Top 10**.
 
 ### Incident Response
@@ -31,3 +31,5 @@ While preparing for my CompTIA Security+ certification, I built a home lab to mo
 - Conducted a gap analysis against **NIST SP 800-53**.  
 - Created security policies and developed a compliance report.  
 - Documented alignment with standards to demonstrate governance and structured risk management practices.
+
+All the reports, presentations, and documentations are shared in this repository.
