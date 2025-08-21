@@ -14,6 +14,7 @@ All presentation videos can be found at https://www.youtube.com/playlist?list=PL
 - Simulated an adversary attack using an assumed breached model.  
 - Executed a reverse shell, built a[ custom Python C2 tool for persistence]([url](https://github.com/mamadub03/SLC2)), and performed data exfiltration of sensitive data after compromising vulnerable endpoints.  
 - Findings were mapped to **MITRE ATT&CK** and **OWASP Top 10**.
+- C2 can be found here: https://github.com/mamadub03/SLC2
 
 ### Incident Response
 - Followed **NIST SP 800-61** to investigate and respond to the simulated attack.  
