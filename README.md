@@ -4,6 +4,8 @@ While preparing for my CompTIA Security+ certification, I built a home lab to mo
 
 All presentation videos can be found at https://www.youtube.com/playlist?list=PLOPkayUwfOJ6K01i1qG7WkDHfFz0mKlae
 
+Takeaways and lesson can be found here at https://medium.com/@mamadu/i-accidentally-built-my-own-cybersecurity-internship-here-are-8-things-i-learned-2ac0dd1345ef
+
 ## Stages
 
 ### Risk Assessment
